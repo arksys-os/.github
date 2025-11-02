@@ -1,17 +1,17 @@
-***ArkSys*** is an amazing **Ar**ch Linux **K** Desktop Environment **Sys**tem that helps you to install Arch with KDE.
+***ArkSys*** is an **Ar**ch-based Linux with **K**DE as **Sys**tem.
 
-If you want an Arch-based distro with basic KDE preconfigured and a graphical installer, I highly recommend: If you're looking for a fresh new Linux experience, check out [CachyOS](https://cachyos.org/download/), [EndeavourOS](https://endeavouros.com/#Download), [Garuda Linux KDE-lite](https://iso.builds.garudalinux.org/iso/garuda/kde-lite/) or [Manjaro](https://manjaro.org/products/download/x86).
+If you want an stable Arch-based distro with basic KDE preconfigured and a graphical installer, I highly recommend: If you're looking for a fresh new Linux experience, check out [CachyOS](https://cachyos.org/download/), [EndeavourOS](https://endeavouros.com/#Download), [Garuda Linux KDE-lite](https://iso.builds.garudalinux.org/iso/garuda/kde-lite/) or [Manjaro](https://manjaro.org/products/download/x86).
 
 ## Why this system?
 After installing multiple Linux distros with different desktop environments (DE) and window managers (WM), I always end up with a similar configuration and visual design. So this is the type of OS that I wholeheartedly recommend for use in a daily drive for most computers! Windows and macOS are proprietary and paid, but the FOSS alternatives like FreeBSD have less software and hardware compatibility, which is great because it means you can choose the OS that's right for you!
 
 ### [Kernel as Linux](https://kernel.org/)
-Linux is the biggest open-source operating system for servers and workstations. It's private, secure, very customisable and there's a big community ready to help you. Also, it is the only one that can compete against the proprietary systems such as Windows and macOS, and has more software and hardware compatibility than the FOSS alternatives like FreeBSD or others.
+Linux is the biggest open-source operating system for servers and workstations. It's private, secure, very customizable and there's a big community ready to help you. Also, it is the only one that can compete against the proprietary systems such as Windows and macOS, and has more software and hardware compatibility than the FOSS alternatives like FreeBSD or others.
 
 > Linux is the kernel of the OS that communicates with the computer hardware, and the rest of the software is integrated on top of that. However, "Linux" is normally used to refer to the family of Linux distros.
 
 ### [Arch Linux](https://archlinux.org/) as base Linux distribution
-The Linux distribution or "Linux distro" is the concept of customized Linux OS with Linux Kernel + basic libraries + package manager + Desktop Environemt (Graphical User Interface)
+The Linux distribution or "Linux distro" is the concept of customized Linux OS with Linux Kernel + basic libraries + package manager + Desktop Environemt (Graphical User Interface).
 
 I choose Arch Linux by these reasons:
 - Mantained by a group of developers and community, not corpo side.
@@ -29,7 +29,7 @@ There are other good base distros like Debian, Fedora, Gentoo, NixOS, Void; but 
 ### Desktop Environment as [KDE](https://kde.org/)
 Most of us are familiar with Windows or perhaps macOS before using Linux, and these operating systems are great in terms of usability, but not for privacy. To achieve a similar interface very customizable and with a good workflow, the best option is to use a desktop environment such as KDE (K Desktop Environment) or something more simple like GNOME or XFCE. 
 
-For me, KDE is the best! It's so elegant, customisable and flexible, and it's maintained by a great group of volunteers and developers.
+For me, KDE is the best! It's elegant, customizable and flexible, and it's maintained by a great group of developers and volunteers.
 
 <img src="https://raw.githubusercontent.com/arksys-os/.github/main/profile/img/linux-architecture.jpg" width="163" height="140" alt="Linux architecture" />
 
