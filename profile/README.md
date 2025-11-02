@@ -31,7 +31,7 @@ Most of us are familiar with Windows or perhaps macOS before using Linux, and th
 
 For me, KDE is the best! It's elegant, customizable and flexible, and it's maintained by a great group of developers and volunteers.
 
-<img src="https://raw.githubusercontent.com/arksys-os/.github/main/profile/img/linux-architecture.jpg" width="163" height="140" alt="Linux architecture" />
+<img src="https://raw.githubusercontent.com/arksys-os/.github/main/profile/img/linux-architecture.jpg" width="550 px" alt="Linux architecture" />
 
 <!--
 **Here are some ideas to get you started:**
